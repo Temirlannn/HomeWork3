@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="main">Главная</string>
+    <string name="sain">Поиск</string>
+    <string name="add">Настройки</string>
+    <string name="profile">Профиль</string>
+
+
+    <string name="standard_55">255dp</string>
+    <dimen name="standard_105">2105dp</dimen>
+    <dimen name="standard_155">2155dp</dimen>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="add_book_btn">Add Book</string>
+    <string name="view_book_btn">View books</string>
+    <string name="book_name_hint">Name of the book</string>
+    <string name="author_hint">book author</string>
+    <string name="publication_date_hint">Publication date</string>
+    <string name="amount_page_hint">Number of pages</string>
+    <string name="amount_hint">Number of books</string>
+    <string name="place_hint">Circulation</string>
+    <string name="add_book_text">ADD PAGE</string>
+    <string name="back_btn">Back</string>
+    <string name="add_genre">Save</string>
+    <string name="genre_hint">Add Genre</string>
+
+</resources>
