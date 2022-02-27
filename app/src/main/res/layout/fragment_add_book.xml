@@ -49,16 +49,14 @@
         app:layout_constraintTop_toBottomOf="@+id/book_name"
         app:layout_constraintVertical_bias="0.02" />
 
-    <TextView
+    <EditText
         android:id="@+id/book_publication_date"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:hint="@string/publication_date_hint"
-        android:inputType="date"
         android:textColor="@color/white"
         android:textSize="22sp"
         android:textColorHint="#716F71"
-        android:clickable="true"
         android:layout_margin="14dp"
         android:textStyle="italic"
         app:layout_constraintEnd_toEndOf="parent"
